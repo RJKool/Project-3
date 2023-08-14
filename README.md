@@ -3,4 +3,5 @@
 
 # Project 3 - PART 2
 1. TMDB API Calls - /Data/Part_2.ipynb
-2. Movie EDA - 
+2. Movies EDA - /Data/Movies_EDA.ipynb
+3. 
